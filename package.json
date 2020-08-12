@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "rxjs": "6.5.3",
-    "tslib": "1.10.0",
+    "tslib": "1.13.0",
     "core-js": "2.6.10",
     "zone.js": "0.9.1",
     "jasmine-core": "2.99.1",
